@@ -1,19 +1,12 @@
 # uuidv1
 
-UUID v1 (with timestamp) generator
+UUID v1 (with timestamp) generator for the browser. This package is a fork of uuidv1, but returns the uuid based on UTC.
 
-## Installation
-
-```bash
-npm i jackens/uuidv1
-```
 
 ## Usage
 
 ```js
-const uuidv1 = require('uuidv1') // Node.js
-
-uuidv1()
+VOS__uuidv1()
 ```
 
 ## License
